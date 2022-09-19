@@ -1,2 +1,2 @@
 # triviaVinzet
-Primer trabajo
+https://replit.com/@vinzentramos/triviaVinzet#main.py
